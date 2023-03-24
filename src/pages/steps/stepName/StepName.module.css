@@ -1,0 +1,13 @@
+.cardWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5.5rem;
+}
+
+.bottomParagraph{
+    width:70%;
+    color: rgb(44, 106, 249);
+    margin: 0 auto;
+    text-align: center;
+}

@@ -1,0 +1,45 @@
+.cardWrapper{
+display:flex;
+align-items: center;
+justify-content: center;
+margin-top: 6rem;
+}
+
+.buttonWrapper{
+    margin-bottom: 20px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    justify-content: flex-end;
+    margin-right: 2.5rem;
+}
+
+.imgStyle{
+    width: 35px;
+    height: 30px;
+}
+
+.tabButton{
+
+    border: none;
+    outline: none;
+    background-color: #262626;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 4px 3px;
+}
+
+.active{
+    background: rgb(1, 82, 204);
+}
+
+.bottomParagraph{
+    width:70%;
+    color: rgb(44, 106, 249);
+    margin: 0 auto;
+    text-align: center;
+}
+    /* 
+    .btn{
+        width: 40%;
+    } */

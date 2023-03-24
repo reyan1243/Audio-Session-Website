@@ -1,0 +1,17 @@
+.btnStyle{
+padding:10px 20px ;
+background-color: rgb(8, 96, 246);
+font-size: 18px;
+color: #fff;
+border: none;
+border-radius: 28px;
+margin-top: 15px;
+margin-bottom: 10px;
+cursor: pointer;
+transition: all .3s ease-in-out;
+width: 40%;
+}
+
+.btnStyle:hover{
+    background-color: rgb(5, 58, 149);
+}
